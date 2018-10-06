@@ -6,6 +6,7 @@ Walktrough of python code, examples on various topics, and specific how tos to s
 
 ## General Python
 * [Functions vs Object Oriented Programming](walkthroughs/Functions_vs_Object_Oriented_Programming.ipynb)
+* [How classe (object) inheritance works in Python](walkthroughs/classes_and_inheritance.ipynb)
 * [Asynchronous (multi) processing in Python](walkthroughs/parallel_programming_tutorial.ipynb)
 
 ## Network Analysis
