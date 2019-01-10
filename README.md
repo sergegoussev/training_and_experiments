@@ -6,7 +6,7 @@ Tutorials, python walkthroughs, and examples of various topics. I put this toget
 
 ## General Python
 * [Functions vs Object Oriented Programming](walkthroughs/Functions_vs_Object_Oriented_Programming.ipynb)
-* [How classe (object) inheritance works in Python](walkthroughs/classes_and_inheritance.ipynb)
+* [How class (object) inheritance works in Python](walkthroughs/classes_and_inheritance.ipynb)
 * [Asynchronous (multi) processing in Python](walkthroughs/parallel_programming_tutorial.ipynb)
 
 ## Network Analysis
