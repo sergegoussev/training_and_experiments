@@ -1,6 +1,6 @@
 # training_and_experiments
 
-Walktrough of python code, examples on various topics, and specific how tos to support our work
+Tutorials, python walkthroughs, and examples of various topics. I put this together to make it easier to remember specific things I have done over the years and put them up. However examples are availible for anyone
 
 # Contents:
 
