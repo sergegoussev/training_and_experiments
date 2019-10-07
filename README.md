@@ -1,13 +1,15 @@
 # training_and_experiments
 
-Tutorials, python + JavaScript walkthroughs, and examples of various topics. I put this together to make it easier to remember specific things I have done over the years and put them up. However examples are availible for anyone
+Tutorials, Python + JavaScript walkthroughs, and examples of various topics. I put this together to make it easier to remember specific things I have done over the years and put them up. However examples are availible for anyone
 
 # Python:
 
 ## General topics
 * [Functions vs Object Oriented Programming](walkthroughs/Functions_vs_Object_Oriented_Programming.ipynb)
 * [How class (object) inheritance works in Python](walkthroughs/classes_and_inheritance.ipynb)
-* [Asynchronous (multi) processing in Python](walkthroughs/parallel_programming_tutorial.ipynb)
+* [Multi-processing in Python (not to be confused with async io)](walkthroughs/parallel_programming_tutorial.ipynb)
+* [Creating a simple REST API with Flask](python/flask-app/README.md)
+
 
 ## Network Analysis
 * [Creating visuals of graphs (using *igraph.plot()*)](walkthroughs/Visualizing_netwroks_in_igraph.ipynb)

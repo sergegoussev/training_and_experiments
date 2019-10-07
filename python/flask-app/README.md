@@ -23,7 +23,7 @@ if __name__ == "__main__":
     app.run(debug = True, passthrough_errors=True)
 ```
 
-Running this in the console with the following [main.html](/templates/main.html) page will render a very simple static webpage.
+Running this in the console with the following [main.html](templates/main.html) page will render a very simple static webpage.
 
 ## Second step -- prepare some data that can be queried
 
