@@ -10,15 +10,12 @@ Tutorials, Python + JavaScript walkthroughs, and examples of various topics. I p
 * [Multi-processing in Python (not to be confused with async io)](walkthroughs/parallel_programming_tutorial.ipynb)
 * [Creating a simple REST API with Flask](python/flask-app/README.md)
 
-
 ## Network Analysis
 * [Creating visuals of graphs (using *igraph.plot()*)](walkthroughs/Visualizing_netwroks_in_igraph.ipynb)
 
 ## Good external resources:
 * [Cheatsheet on pandas DataFrame processing (external)](https://www.dataquest.io/blog/large_files/pandas-cheat-sheet.pdf)
 
----------------------------------------------------------------------------------------------------
-# JavaScript
+-----------
 
-## General topics
-* [Object Oriented Programming and class creation in JavaScript](js/class.js)
+# JavaScript
