@@ -2,3 +2,12 @@
 *.ini
 *.pyc
 *-checkpoint*
+
+# Data files
+*.csv
+*.feather
+*.pkl
+*.zip
+*.gzip
+*.h5
+*.xlsx
