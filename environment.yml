@@ -1,0 +1,16 @@
+name: training_and_experiments
+
+channels:
+  - defaults
+  - conda-forge
+
+dependencies:
+  - python=3.10
+  - ipykernel
+  - pandas
+  - scipy
+  - jupyterlab
+  - docutils
+  - pytest
+  - lxml
+  - seaborn
