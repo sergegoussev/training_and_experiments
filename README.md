@@ -25,16 +25,11 @@ Tutorials, Python + JavaScript walkthroughs, and examples of various topics. I p
 This repository has the following structure
 
 ```
-├── notebooks               # Notebooks that explore specific concepts
-├── src                     # Place for support scripts and python code used for the library
-├── data                    # Placeholder folders for the scraped data part of the demo, structure set up but it will be kept local
+├── imgs                    # Folder for images that are rendered in the notebooks
+├── data                    # Placeholder folders for any data used in the experiments
 │   ├── bronze              # For raw data that is collected for any experiments
 │   ├── silver              # Semi-processed data converted from the bronze (raw) version
 │   └── gold                # Cleaned data that is made available for analysis
-└── imgs                    # Folder for images that are rendered in the notebooks
-    ├── applying_rap        # Documentation about applying RAP principles to the basic web scraping demo in the notebooks
-    ├── images              # Images and diagrams for the documentation
-    └── teaching_material   # The actual materials for the 2 sessions
-        ├── sept_11         # Slides and latex material for the September 11th virtual session
-        └── sept_18         # Slides and latex material for the September 18th in person session
+├── src                     # Place for support scripts and python code used for the library
+└── notebooks               # Notebooks that explore specific concepts
 ```
