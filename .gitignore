@@ -11,3 +11,9 @@
 *.gzip
 *.h5
 *.xlsx
+*.txt
+
+# other files
+*.xml
+*.pdf
+*.html
