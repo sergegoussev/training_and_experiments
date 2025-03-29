@@ -9,7 +9,6 @@ Tutorials, Python + JavaScript walkthroughs, and examples of various topics. I p
 * [How class (object) inheritance works in Python](notebooks/classes_and_inheritance.ipynb)
 * [Multi-processing in Python (not to be confused with async io)](notebooks/parallel_programming_tutorial.ipynb)
 * [Creating a simple REST API with Flask](src/flask-app/README.md)
-* [Benchmark test of file formats to use when doing Data Analysis](notebooks/File_type_benchmark.ipynb)
 
 ## Network Analysis
 * [Creating visuals of graphs (using `igraph.plot()`)](notebooks/Visualizing_networks_in_igraph.ipynb)
